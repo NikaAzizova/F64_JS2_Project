@@ -1,0 +1,49 @@
+// Noto Sans для начертания Light
+@font-face {
+    font-family: "Noto Sans";
+    src: local("Noto Sans"), local("Noto-Sans-Light"),
+        url("../fonts/NotoSans-Light.woff") format("woff"),
+        url("../fonts/NotoSans-Light.ttf") format("ttf");
+    font-weight: 300;
+    font-style: normal;
+}
+
+// Noto Sans для начертания Regular
+@font-face {
+    font-family: "Noto Sans";
+    src: local("Noto Sans"), local("Noto-Sans-Regular"),
+        url("../fonts/NotoSans-Regular.woff") format("woff"),
+        url("../fonts/NotoSans-Regular.ttf") format("ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+
+// Noto Sans для начертания Medium
+@font-face {
+    font-family: "Noto Sans";
+    src: local("Noto Sans"), local("Noto-Sans-Medium"),
+        url("../fonts/NotoSans-Medium.woff") format("woff"),
+        url("../fonts/NotoSans-Medium.ttf") format("ttf");
+    font-weight: 500;
+    font-style: normal;
+}
+
+// Rubik для начертания Bold
+@font-face {
+    font-family: "Rubik";
+    src: local("Rubik Bold"), local("Rubik-Bold"),
+        url("../fonts/Rubik-Bold.woff") format("woff"),
+        url("../fonts/Rubik-Bold.ttf") format("ttf");
+    font-weight: 700;
+    font-style: normal;
+}
+
+// Fira Sans Condensed для начертания Medium
+@font-face {
+    font-family: "Fira Sans Condensed";
+    src: local("Fira Sans Condensed"), local("FiraSansCondensed-Medium"), local("Fira-Sans-Condensed-Medium"),
+        url("../fonts/FiraSansCondensed-Medium.woff") format("woff"),
+        url("../fonts/FiraSansCondensed-Medium.ttf") format("ttf");
+    font-weight: 500;
+    font-style: normal;
+}
